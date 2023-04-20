@@ -1,6 +1,16 @@
-### Oii 👋
+### I'm Sebastião Félix
 
-- 🔭 I’m currently working at Rocketseat
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
-- 📫 How to reach me: @sebafelix
+#### Abaout
+I’m currently working at Rocketseat, learning web development
+
+#### Current stack
+- Main Language: 'Javascript'
+- Frontend:'HTML5', 'CSS3', 'JavaScript', 'Reactjs'
+- Layout Design: 'Figma'
+- Tools: 'VSCode', 'Markdown'
+- Version code control: 'Git & Github'
+
+#### Contacts
+- Email: sebastiaofdmn@gmail.com
+- Linkedin: https://www.linkedin.com/in/sebastiaofelix/
 
